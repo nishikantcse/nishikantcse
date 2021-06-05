@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nishikantcse
-- 👀 I’m interested in Web Development, Machine Learning
+- 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning JavaScript & Python with frameworks like React, Vue, Node, Django
 
 
